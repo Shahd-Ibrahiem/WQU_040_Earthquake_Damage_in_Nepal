@@ -1,0 +1,8 @@
+In this project, we'll work with data from Open Data Nepal to build a model to predict building damage from the Nepal 2015 Earthquake. We'll work primarily with data from the Gorkha district, with additional examples from Ramechhap. _
+
+Some of the things we'll learn in this project are:
+
+1.How to get data by querying a SQL database.
+2.How to build a logistic regression model for classification.
+3.How to build a decision tree model for classification.
+4.How to incorporate ethical considerations into your model building.
